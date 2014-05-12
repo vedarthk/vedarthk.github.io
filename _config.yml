@@ -6,8 +6,8 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Blog
-tagline:          'developer's blog'
+title:            Code + Coffee
+tagline:          "developer's blog"
 description:      'Follow me <a href="https://twitter.com/vedarthk" target="_blank">@vedarthk</a>.'
 url:              http://blog.vedarthz.in
 
@@ -21,4 +21,4 @@ paginate:         5
 version:          2.0.0
 
 github:
-  repo:           https://github.com/vedarthk/hyde
+  repo:           https://github.com/vedarthk
