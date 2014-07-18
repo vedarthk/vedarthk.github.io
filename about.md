@@ -4,13 +4,8 @@ title: About
 ---
 
 
-  Hi, I am a Python Developer [@aplopio](http://aplopio.com) where we develop [Recruiterbox](http://recruiterbox.com) and contribute to open source.
+  Nowdays, every one is blogging. Internet is full of various blogs, most of them are to help people in one or the other way. Even I want to blog, but I want to write things which are not easy to search on the Internet, then you might think I am adding yet another blog, but no!, I am not, this blog is my log. I want to use this platform to jot things down and then later in future I can easily refer to them.
 
-This is just another blog on Internet which might / or might not help you. My motivation behind writing this blog is to keep track of things that I do and make my life easy.
-
-Also I like to get things for **FREE**, so you might find few posts which will guide you on how to get things for free.
-
-**Tip: Use Twitter**
-
+Conclusion, you might/not find posts on this blog useful. I work at [Aplopio](http://aplopio.com) with a great team, we develop a awesome applicant tracking system called [Recruiterbox](http://recruiterbox.com) using [Python](http://www.python.org) & [Django](http://www.djangoproject.com).
 
 Thanks for reading!
